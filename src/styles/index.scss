@@ -1,0 +1,9 @@
+@import "base/variables";
+
+body {
+  margin: 0 auto;
+  max-width: 1120px;
+  text-align: center;
+  color: $body-color;
+  font-family: sans-serif;
+}
